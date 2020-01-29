@@ -1,6 +1,6 @@
 pkgbase = ungoogled-chromium-bin
 	pkgdesc = A lightweight approach to removing Google web service dependency (binary version)
-	pkgver = 79.0.3945.88
+	pkgver = 79.0.3945.130
 	pkgrel = 1
 	url = https://ungoogled-software.github.io/
 	arch = x86_64
@@ -39,8 +39,8 @@ pkgbase = ungoogled-chromium-bin
 	conflicts = chromium
 	conflicts = iridium
 	conflicts = ungoogled-chromium
-	source = https://download.opensuse.org/repositories/home:/justkidding:/arch/standard/x86_64/ungoogled-chromium-79.0.3945.88-1-x86_64.pkg.tar.xz
-	sha256sums = dced840ee95d399ddcf805d14a7dadef0a191071e9089644206236fe51ea993f
+	source = https://download.opensuse.org/repositories/home:/justkidding:/arch/standard/x86_64/ungoogled-chromium-79.0.3945.130-1-x86_64.pkg.tar.xz
+	sha256sums = 0a6d3472a586ff342c1b61dde834c24ceead1b320fd63ff908c437fd25b9ae85
 
 pkgname = ungoogled-chromium-bin
 
